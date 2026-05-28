@@ -1,0 +1,12 @@
+@import "tailwindcss";
+body {
+  overflow: auto !important;
+}
+
+.razorpay-container {
+  z-index: 999999 !important;
+}
+
+.razorpay-checkout-frame {
+  z-index: 999999 !important;
+}
